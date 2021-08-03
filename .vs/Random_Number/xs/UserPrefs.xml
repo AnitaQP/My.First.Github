@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{03463CFC-1C6D-491B-BB9A-512DE311549E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Random_Number/Program.cs">
+    <Files>
+      <File FileName="Random_Number/Program.cs" Line="18" Column="72" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Random_Number" expanded="True">
+            <Node name="Random_Number" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Random__Number PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
